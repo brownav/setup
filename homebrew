@@ -1,0 +1,6 @@
+// tab for command completion and double-tab to list possible commands
+brew install bash-completion
+
+
+// A bash prompt that displays information about the current git repository. In particular the branch name, difference with remote branch, number of files staged, changed, etc.
+brew install bash-git-prompt
