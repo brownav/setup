@@ -16,7 +16,7 @@ set hlsearch
 " ignore case when searching
 set ignorecase
 
-" incremental serches that shows partial matches
+" incremental searches that shows partial matches
 set incsearch
 
 " switch search to case-sensitive when query contains uppercase
