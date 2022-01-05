@@ -1,7 +1,7 @@
 export PS1="\w 🍊🌿$ "
 
 #-----------------------------
-#   MAKE TERMINAL BETTER
+#   FILES AND DIRECTORIES
 #-----------------------------
 alias ll='ls -FGlAhrt'                      # list with all info
 alias cd.='cd ../'                          # Go back 1 directory level
