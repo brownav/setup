@@ -1,0 +1,18 @@
+{
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": false,
+    "breadcrumbs.enabled": true,
+    "window.zoomLevel": 2,
+    "python.pythonPath": "/usr/local/bin/python",
+    "workbench.colorTheme": "Solarized Dark",
+    "python.defaultInterpreterPath": "/usr/local/bin/python",
+    "editor.wordWrap": "on",
+    "workbench.preferredHighContrastColorTheme": "Solarized Dark",
+    "workbench.preferredLightColorTheme": "Solarized Light",
+    "workbench.preferredDarkColorTheme": "Solarized Dark",
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+        "editor.tabSize": 4
+    }
+}
